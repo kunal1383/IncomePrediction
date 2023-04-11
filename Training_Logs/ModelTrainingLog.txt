@@ -1,0 +1,371 @@
+2023-04-10/19:41:58		Start of Training
+2023-04-10/19:41:58		Entered the get_data method of the Get Data class
+2023-04-10/19:41:58		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-10/19:41:58		Entered the remove_columns method of the Preprocessor class
+2023-04-10/19:41:58		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-10/19:41:58		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-10/19:41:59		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-10/19:41:59		Entered the separate_label_feature method of the Preprocessor class
+2023-04-10/19:41:59		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-10/19:41:59		Entered the is_null_present method of the Preprocessor class
+2023-04-10/19:41:59		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-10/19:41:59		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:41:59		After scaling the Df :28943
+2023-04-10/19:41:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:41:59		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:41:59		After encoding the Df :28943
+2023-04-10/19:41:59		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:41:59		After Normalizing :27737 and Y:27737
+2023-04-10/19:41:59		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:41:59		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:41:59		Entered the elbow_plot method of the KMeansClustering class
+2023-04-10/19:42:12		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-10/19:42:12		Entered the create_clusters method of the KMeansClustering class
+2023-04-10/19:42:13		Entered the save_model method of the FileOperation class
+2023-04-10/19:42:13		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-10/19:42:13		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-10/19:42:13		Entered the get_best_model method of the Model_Finder class
+2023-04-10/19:42:13		Unsuccessful End of Training
+2023-04-10/19:43:19		Start of Training
+2023-04-10/19:43:19		Entered the get_data method of the Get Data class
+2023-04-10/19:43:20		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-10/19:43:20		Entered the remove_columns method of the Preprocessor class
+2023-04-10/19:43:20		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-10/19:43:20		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-10/19:43:20		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-10/19:43:20		Entered the separate_label_feature method of the Preprocessor class
+2023-04-10/19:43:20		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-10/19:43:20		Entered the is_null_present method of the Preprocessor class
+2023-04-10/19:43:20		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-10/19:43:20		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:43:20		After scaling the Df :57886
+2023-04-10/19:43:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:43:20		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:43:20		After encoding the Df :57886
+2023-04-10/19:43:20		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:43:20		After Normalizing :55474 and Y:55474
+2023-04-10/19:43:20		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:43:20		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:43:20		Entered the elbow_plot method of the KMeansClustering class
+2023-04-10/19:43:40		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-10/19:43:40		Entered the create_clusters method of the KMeansClustering class
+2023-04-10/19:43:42		Entered the save_model method of the FileOperation class
+2023-04-10/19:43:42		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-10/19:43:42		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-10/19:43:42		Entered the get_best_model method of the Model_Finder class
+2023-04-10/19:43:42		Unsuccessful End of Training
+2023-04-10/19:46:08		Start of Training
+2023-04-10/19:46:08		Entered the get_data method of the Get Data class
+2023-04-10/19:46:08		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-10/19:46:08		Entered the remove_columns method of the Preprocessor class
+2023-04-10/19:46:08		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-10/19:46:08		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-10/19:46:08		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-10/19:46:08		Entered the separate_label_feature method of the Preprocessor class
+2023-04-10/19:46:08		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-10/19:46:08		Entered the is_null_present method of the Preprocessor class
+2023-04-10/19:46:08		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-10/19:46:08		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:46:08		After scaling the Df :28943
+2023-04-10/19:46:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-10/19:46:08		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:46:08		After encoding the Df :28943
+2023-04-10/19:46:08		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-10/19:46:08		After Normalizing :27737 and Y:27737
+2023-04-10/19:46:08		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:46:08		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-10/19:46:08		Entered the elbow_plot method of the KMeansClustering class
+2023-04-10/19:46:20		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-10/19:46:20		Entered the create_clusters method of the KMeansClustering class
+2023-04-10/19:46:21		Entered the save_model method of the FileOperation class
+2023-04-10/19:46:21		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-10/19:46:21		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-10/19:46:21		Entered the get_best_model method of the Model_Finder class
+2023-04-10/19:46:21		Unsuccessful End of Training
+2023-04-11/08:53:59		Start of Training
+2023-04-11/08:53:59		Entered the get_data method of the Get Data class
+2023-04-11/08:53:59		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-11/08:53:59		Entered the remove_columns method of the Preprocessor class
+2023-04-11/08:53:59		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-11/08:53:59		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-11/08:53:59		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-11/08:53:59		Entered the separate_label_feature method of the Preprocessor class
+2023-04-11/08:53:59		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-11/08:53:59		Entered the is_null_present method of the Preprocessor class
+2023-04-11/08:53:59		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-11/08:53:59		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-11/08:53:59		After scaling the Df :28943
+2023-04-11/08:53:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-11/08:53:59		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-11/08:53:59		After encoding the Df :28943
+2023-04-11/08:53:59		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-11/08:53:59		After Normalizing :27737 and Y:27737
+2023-04-11/08:53:59		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/08:53:59		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/08:53:59		Entered the elbow_plot method of the KMeansClustering class
+2023-04-11/08:54:20		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-11/08:54:20		Entered the create_clusters method of the KMeansClustering class
+2023-04-11/08:54:21		Entered the save_model method of the FileOperation class
+2023-04-11/08:54:21		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-11/08:54:21		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-11/08:54:21		Entered the get_best_model method of the Model_Finder class
+2023-04-11/08:54:21		Training DecisionTreeClassifier...
+2023-04-11/08:54:27		DecisionTreeClassifier score: 0.7950297100912018
+2023-04-11/08:54:27		Training RandomForestClassifier...
+2023-04-11/09:12:11		RandomForestClassifier score: 0.9685471890292906
+2023-04-11/09:12:11		Training XGBClassifier...
+2023-04-11/09:41:33		XGBClassifier score: 0.932498997901441
+2023-04-11/09:41:33		Training GaussianNB...
+2023-04-11/09:41:35		GaussianNB score: 0.8080736434400507
+2023-04-11/09:41:35		Best model: RandomForestClassifier, score: 0.9685471890292906
+2023-04-11/09:41:35		Entered the save_model method of the FileOperation class
+2023-04-11/09:41:35		Model File RandomForestClassifier0 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/09:41:35		Successful End of Training
+2023-04-11/09:54:37		Start of Training
+2023-04-11/09:54:37		Entered the get_data method of the Get Data class
+2023-04-11/09:54:37		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-11/09:54:37		Entered the remove_columns method of the Preprocessor class
+2023-04-11/09:54:37		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-11/09:54:37		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-11/09:54:37		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-11/09:54:37		Entered the separate_label_feature method of the Preprocessor class
+2023-04-11/09:54:37		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-11/09:54:37		Entered the is_null_present method of the Preprocessor class
+2023-04-11/09:54:37		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-11/09:54:37		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-11/09:54:37		After scaling the Df :28943
+2023-04-11/09:54:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-11/09:54:37		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-11/09:54:37		After encoding the Df :28943
+2023-04-11/09:54:37		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-11/09:54:37		After Normalizing :27737 and Y:27737
+2023-04-11/09:54:37		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/09:54:37		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/09:54:37		Entered the elbow_plot method of the KMeansClustering class
+2023-04-11/09:54:51		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-11/09:54:51		Entered the create_clusters method of the KMeansClustering class
+2023-04-11/09:54:52		Entered the save_model method of the FileOperation class
+2023-04-11/09:54:52		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-11/09:54:52		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-11/09:54:52		Entered the get_best_model method of the Model_Finder class
+2023-04-11/09:54:52		Training DecisionTreeClassifier...
+2023-04-11/09:54:58		DecisionTreeClassifier score: 0.8868081825149581
+2023-04-11/09:54:58		Training RandomForestClassifier...
+2023-04-11/10:08:00		RandomForestClassifier score: 0.9531273179053553
+2023-04-11/10:08:00		Training XGBClassifier...
+2023-04-11/10:31:08		XGBClassifier score: 0.9069167841072047
+2023-04-11/10:31:08		Training GaussianNB...
+2023-04-11/10:31:10		GaussianNB score: 0.8122751631805369
+2023-04-11/10:31:10		Best model: RandomForestClassifier, score: 0.9531273179053553
+2023-04-11/10:31:10		Entered the save_model method of the FileOperation class
+2023-04-11/10:31:10		Model File RandomForestClassifier0 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/10:31:10		Successful End of Training
+2023-04-11/10:38:25		Start of Training
+2023-04-11/10:38:25		Entered the get_data method of the Get Data class
+2023-04-11/10:38:25		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-11/10:38:25		Entered the remove_columns method of the Preprocessor class
+2023-04-11/10:38:25		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-11/10:38:25		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-11/10:38:25		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-11/10:38:25		Entered the separate_label_feature method of the Preprocessor class
+2023-04-11/10:38:25		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-11/10:38:25		Entered the is_null_present method of the Preprocessor class
+2023-04-11/10:38:25		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-11/10:38:25		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-11/10:38:25		After scaling the Df :28943
+2023-04-11/10:38:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-11/10:38:25		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-11/10:38:25		After encoding the Df :28943
+2023-04-11/10:38:25		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-11/10:38:25		After Normalizing :27737 and Y:27737
+2023-04-11/10:38:25		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/10:38:25		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/10:38:25		Entered the elbow_plot method of the KMeansClustering class
+2023-04-11/10:38:45		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-11/10:38:45		Entered the create_clusters method of the KMeansClustering class
+2023-04-11/10:38:47		Entered the save_model method of the FileOperation class
+2023-04-11/10:38:47		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-11/10:38:47		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-11/10:38:47		Entered the get_best_model method of the Model_Finder class
+2023-04-11/10:38:47		Training DecisionTreeClassifier...
+2023-04-11/10:38:53		DecisionTreeClassifier score: 0.8813172251776492
+2023-04-11/10:38:53		Training RandomForestClassifier...
+2023-04-11/10:53:10		RandomForestClassifier score: 0.9571659936059229
+2023-04-11/10:53:10		Training XGBClassifier...
+2023-04-11/11:04:37		XGBClassifier score: 0.8010126651911104
+2023-04-11/11:04:37		Training GaussianNB...
+2023-04-11/11:04:38		GaussianNB score: 0.803539069881826
+2023-04-11/11:04:38		Best model: RandomForestClassifier, score: 0.9571659936059229
+2023-04-11/11:04:38		Entered the save_model method of the FileOperation class
+2023-04-11/11:04:39		Model File RandomForestClassifier2 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/11:04:39		Successful End of Training
+2023-04-11/11:04:39		Entered the get_best_model method of the Model_Finder class
+2023-04-11/11:04:39		Training DecisionTreeClassifier...
+2023-04-11/11:04:46		DecisionTreeClassifier score: 0.7329464109664201
+2023-04-11/11:04:46		Training RandomForestClassifier...
+2023-04-11/11:23:00		RandomForestClassifier score: 0.8448932869373349
+2023-04-11/11:23:00		Training XGBClassifier...
+2023-04-11/11:32:19		XGBClassifier score: 0.7614507726376337
+2023-04-11/11:32:19		Training GaussianNB...
+2023-04-11/11:32:22		GaussianNB score: 0.6994928406157925
+2023-04-11/11:32:22		Best model: RandomForestClassifier, score: 0.8448932869373349
+2023-04-11/11:32:22		Entered the save_model method of the FileOperation class
+2023-04-11/11:32:22		Model File RandomForestClassifier0 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/11:32:22		Successful End of Training
+2023-04-11/11:32:22		Entered the get_best_model method of the Model_Finder class
+2023-04-11/11:32:22		Training DecisionTreeClassifier...
+2023-04-11/11:32:24		DecisionTreeClassifier score: 0.8663812195482061
+2023-04-11/11:32:24		Training RandomForestClassifier...
+2023-04-11/11:35:05		RandomForestClassifier score: 0.9335664335664335
+2023-04-11/11:35:05		Training XGBClassifier...
+2023-04-11/11:37:59		XGBClassifier score: 0.9440559440559441
+2023-04-11/11:37:59		Training GaussianNB...
+2023-04-11/11:37:59		GaussianNB score: 0.6398601398601398
+2023-04-11/11:37:59		Best model: XGBClassifier, score: 0.9440559440559441
+2023-04-11/11:37:59		Entered the save_model method of the FileOperation class
+2023-04-11/11:38:00		Model File XGBClassifier3 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/11:38:00		Successful End of Training
+2023-04-11/11:38:00		Entered the get_best_model method of the Model_Finder class
+2023-04-11/11:38:00		Training DecisionTreeClassifier...
+2023-04-11/11:38:01		DecisionTreeClassifier score: 1.0
+2023-04-11/11:38:01		Training RandomForestClassifier...
+2023-04-11/11:39:20		RandomForestClassifier score: 1.0
+2023-04-11/11:39:20		Training XGBClassifier...
+2023-04-11/11:39:23		Unsuccessful End of Training
+2023-04-11/11:57:14		Start of Training
+2023-04-11/11:57:14		Entered the get_data method of the Get Data class
+2023-04-11/11:57:14		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-11/11:57:14		Entered the remove_columns method of the Preprocessor class
+2023-04-11/11:57:14		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-11/11:57:14		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-11/11:57:14		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-11/11:57:14		Entered the separate_label_feature method of the Preprocessor class
+2023-04-11/11:57:14		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-11/11:57:14		Entered the is_null_present method of the Preprocessor class
+2023-04-11/11:57:14		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-11/11:57:14		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-11/11:57:14		After scaling the Df :28943
+2023-04-11/11:57:14		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-11/11:57:14		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-11/11:57:14		After encoding the Df :28943
+2023-04-11/11:57:14		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-11/11:57:14		After Normalizing :27737 and Y:27737
+2023-04-11/11:57:14		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/11:57:14		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/11:57:14		Entered the elbow_plot method of the KMeansClustering class
+2023-04-11/11:57:28		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-11/11:57:28		Entered the create_clusters method of the KMeansClustering class
+2023-04-11/11:57:29		Entered the save_model method of the FileOperation class
+2023-04-11/11:57:29		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-11/11:57:29		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-11/11:57:29		Entered the get_best_model method of the Model_Finder class
+2023-04-11/11:57:29		Training DecisionTreeClassifier...
+2023-04-11/11:57:31		DecisionTreeClassifier score: 0.9303350872944233
+2023-04-11/11:57:31		Training RandomForestClassifier...
+2023-04-11/11:58:03		RandomForestClassifier score: 0.9868831851752748
+2023-04-11/11:58:03		Training XGBClassifier...
+2023-04-11/11:58:40		XGBClassifier score: 0.9432095116965552
+2023-04-11/11:58:40		Training GaussianNB...
+2023-04-11/11:58:42		GaussianNB score: 0.8867429162722088
+2023-04-11/11:58:42		Best model: RandomForestClassifier, score: 0.9868831851752748
+2023-04-11/11:58:42		Entered the save_model method of the FileOperation class
+2023-04-11/11:58:43		Model File RandomForestClassifier2 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/11:58:43		Successful End of Training
+2023-04-11/11:58:43		Entered the get_best_model method of the Model_Finder class
+2023-04-11/11:58:43		Training DecisionTreeClassifier...
+2023-04-11/11:58:45		DecisionTreeClassifier score: 0.8312946332202749
+2023-04-11/11:58:45		Training RandomForestClassifier...
+2023-04-11/11:59:44		RandomForestClassifier score: 0.9632581548497366
+2023-04-11/11:59:44		Training XGBClassifier...
+2023-04-11/12:00:32		XGBClassifier score: 0.8742063233906905
+2023-04-11/12:00:32		Training GaussianNB...
+2023-04-11/12:00:34		GaussianNB score: 0.8282296339447561
+2023-04-11/12:00:34		Best model: RandomForestClassifier, score: 0.9632581548497366
+2023-04-11/12:00:34		Entered the save_model method of the FileOperation class
+2023-04-11/12:00:34		Model File RandomForestClassifier0 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:00:34		Successful End of Training
+2023-04-11/12:00:34		Entered the get_best_model method of the Model_Finder class
+2023-04-11/12:00:34		Training DecisionTreeClassifier...
+2023-04-11/12:00:35		DecisionTreeClassifier score: 0.8978343495130257
+2023-04-11/12:00:35		Training RandomForestClassifier...
+2023-04-11/12:00:43		RandomForestClassifier score: 0.9901945258268008
+2023-04-11/12:00:43		Training XGBClassifier...
+2023-04-11/12:00:58		XGBClassifier score: 0.9850212473935651
+2023-04-11/12:00:58		Training GaussianNB...
+2023-04-11/12:00:58		GaussianNB score: 0.8813181302293663
+2023-04-11/12:00:58		Best model: RandomForestClassifier, score: 0.9901945258268008
+2023-04-11/12:00:58		Entered the save_model method of the FileOperation class
+2023-04-11/12:00:58		Model File RandomForestClassifier1 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:00:58		Successful End of Training
+2023-04-11/12:00:58		Entered the get_best_model method of the Model_Finder class
+2023-04-11/12:00:58		Training DecisionTreeClassifier...
+2023-04-11/12:00:59		DecisionTreeClassifier score: 1.0
+2023-04-11/12:00:59		Training RandomForestClassifier...
+2023-04-11/12:01:04		RandomForestClassifier score: 1.0
+2023-04-11/12:01:04		Training XGBClassifier...
+2023-04-11/12:01:04		Unsuccessful End of Training
+2023-04-11/12:20:23		Start of Training
+2023-04-11/12:20:23		Entered the get_data method of the Get Data class
+2023-04-11/12:20:23		Data Load Successful.Exited the get_data method of the Get_Data class
+2023-04-11/12:20:23		Entered the remove_columns method of the Preprocessor class
+2023-04-11/12:20:23		Column removed Successful.Exited the remove_columns method of the Preprocessor class
+2023-04-11/12:20:23		Entered the remove_unwanted_space method of the Preprocessor class
+2023-04-11/12:20:23		Unwanted spaces removed successfully. Exiting the remove_unwanted_spaces method of the Preprocessor class
+2023-04-11/12:20:23		Entered the separate_label_feature method of the Preprocessor class
+2023-04-11/12:20:23		Label Separated Successfully. Exiting the separate_label_feature method of the Preprocessor class
+2023-04-11/12:20:23		Entered the is_null_present method of the Preprocessor class
+2023-04-11/12:20:23		No missing values found. Exited the is_null_present method of the Preprocessor class
+2023-04-11/12:20:23		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-11/12:20:23		After scaling the Df :28943
+2023-04-11/12:20:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-11/12:20:23		Entered the encode_categorical_columns method of the Preprocessor class
+2023-04-11/12:20:23		After encoding the Df :28943
+2023-04-11/12:20:23		Encoding for categorical columns successful. Exited the encode_categorical_columns method of the Preprocessor class
+2023-04-11/12:20:23		After Normalizing :27737 and Y:27737
+2023-04-11/12:20:23		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/12:20:23		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2023-04-11/12:20:23		Entered the elbow_plot method of the KMeansClustering class
+2023-04-11/12:20:36		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2023-04-11/12:20:36		Entered the create_clusters method of the KMeansClustering class
+2023-04-11/12:20:37		Entered the save_model method of the FileOperation class
+2023-04-11/12:20:37		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:20:37		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-04-11/12:20:37		Entered the get_best_model method of the Model_Finder class
+2023-04-11/12:20:37		Training DecisionTreeClassifier...
+2023-04-11/12:20:39		DecisionTreeClassifier score: 0.9223190467504634
+2023-04-11/12:20:39		Training RandomForestClassifier...
+2023-04-11/12:21:13		RandomForestClassifier score: 0.9876108666408262
+2023-04-11/12:21:13		Training XGBClassifier...
+2023-04-11/12:21:47		XGBClassifier score: 0.9418794969594122
+2023-04-11/12:21:47		Training GaussianNB...
+2023-04-11/12:21:49		GaussianNB score: 0.8824255813271751
+2023-04-11/12:21:49		Best model: RandomForestClassifier, score: 0.9876108666408262
+2023-04-11/12:21:49		Entered the save_model method of the FileOperation class
+2023-04-11/12:21:49		Model File RandomForestClassifier0 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:21:49		Successful End of Training
+2023-04-11/12:21:49		Entered the get_best_model method of the Model_Finder class
+2023-04-11/12:21:49		Training DecisionTreeClassifier...
+2023-04-11/12:21:51		DecisionTreeClassifier score: 0.8401564052290033
+2023-04-11/12:21:51		Training RandomForestClassifier...
+2023-04-11/12:22:43		RandomForestClassifier score: 0.9704005728360257
+2023-04-11/12:22:43		Training XGBClassifier...
+2023-04-11/12:23:25		XGBClassifier score: 0.8879188582268326
+2023-04-11/12:23:25		Training GaussianNB...
+2023-04-11/12:23:28		GaussianNB score: 0.833523803811159
+2023-04-11/12:23:28		Best model: RandomForestClassifier, score: 0.9704005728360257
+2023-04-11/12:23:28		Entered the save_model method of the FileOperation class
+2023-04-11/12:23:28		Model File RandomForestClassifier3 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:23:28		Successful End of Training
+2023-04-11/12:23:28		Entered the get_best_model method of the Model_Finder class
+2023-04-11/12:23:28		Training DecisionTreeClassifier...
+2023-04-11/12:23:29		DecisionTreeClassifier score: 0.8692387807836313
+2023-04-11/12:23:29		Training RandomForestClassifier...
+2023-04-11/12:23:36		RandomForestClassifier score: 0.9919316563834837
+2023-04-11/12:23:36		Training XGBClassifier...
+2023-04-11/12:23:50		XGBClassifier score: 0.989545430575331
+2023-04-11/12:23:50		Training GaussianNB...
+2023-04-11/12:23:51		GaussianNB score: 0.881123767336392
+2023-04-11/12:23:51		Best model: RandomForestClassifier, score: 0.9919316563834837
+2023-04-11/12:23:51		Entered the save_model method of the FileOperation class
+2023-04-11/12:23:51		Model File RandomForestClassifier2 saved. Exited the save_model method of the Model_Finder class
+2023-04-11/12:23:51		Successful End of Training

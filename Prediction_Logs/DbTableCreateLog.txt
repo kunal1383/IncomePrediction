@@ -1,0 +1,36 @@
+2023-04-11/12:32:45		Error while creating table: unable to open database file 
+2023-04-11/12:42:55		Error while creating table: unable to open database file 
+2023-04-11/12:47:32		Error while creating table: unable to open database file 
+2023-04-11/12:48:07		Error while creating table: unable to open database file 
+2023-04-11/12:52:14		Table Good_Raw_Data created with column age!
+2023-04-11/12:52:14		Column workclass added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column fnlwgt added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column education added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column education-num added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column marital-status added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column occupation added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column relationship added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column race added to Good_Raw_Data table!
+2023-04-11/12:52:14		Column sex added to Good_Raw_Data table!
+2023-04-11/12:52:15		Column capital-gain added to Good_Raw_Data table!
+2023-04-11/12:52:15		Column capital-loss added to Good_Raw_Data table!
+2023-04-11/12:52:15		Column hours-per-week added to Good_Raw_Data table!
+2023-04-11/12:52:15		Column native-country added to Good_Raw_Data table!
+2023-04-11/12:52:15		Tables created successfully!
+2023-04-11/12:57:10		Table Good_Raw_Data created with column age!
+2023-04-11/12:57:10		Column workclass added to Good_Raw_Data table!
+2023-04-11/12:57:10		Column fnlwgt added to Good_Raw_Data table!
+2023-04-11/12:57:10		Column education added to Good_Raw_Data table!
+2023-04-11/12:57:10		Column education-num added to Good_Raw_Data table!
+2023-04-11/12:57:10		Column marital-status added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column occupation added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column relationship added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column race added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column sex added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column capital-gain added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column capital-loss added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column hours-per-week added to Good_Raw_Data table!
+2023-04-11/12:57:11		Column native-country added to Good_Raw_Data table!
+2023-04-11/12:57:11		Tables created successfully!
+2023-04-11/17:38:21		Tables already exist in the database!
+2023-04-11/17:47:16		Tables already exist in the database!
